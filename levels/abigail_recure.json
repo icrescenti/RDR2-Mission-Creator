@@ -1,0 +1,22 @@
+﻿[
+  {
+    "enemies": [
+      {
+        "model_name": "S_M_M_PinLaw_01",
+        "coordinates": "2965.195, 472.1718f, 47.5514",
+        "heading": 180,
+        "type": "enemy",
+        "name": "Pinkerton"
+      }
+    ],
+    "companions": [
+      {
+        "model_name": "player_zero",
+        "coordinates": "",
+        "name": "Arthur",
+        "type": "companion",
+        "task": "sniper_cover"
+      }
+    ]
+  }
+]

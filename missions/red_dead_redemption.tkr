@@ -1,0 +1,5 @@
+﻿clear_peds
+show_subtitle, Take_cover_before_Arthur_starts_shooting
+load_level, abigail_recure
+destination_point, 1192138201, 3025.328, 556.1464, 44.72036, Destination, 15, false
+show_subtitle, sadie_gets_arrested_event
